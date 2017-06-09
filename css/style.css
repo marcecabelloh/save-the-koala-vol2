@@ -1,0 +1,216 @@
+/*/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+
+body{
+	padding: 0;
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+
+/*navbar y primera sección*/
+
+.bienvenida{
+	background: url('../img/portada.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+.navbar-default{
+	background-color: transparent;
+	border: none;
+}
+
+.titulo-principal{
+	font-weight: bold;
+	color:#fff;
+}
+
+.contenido-bienv{
+	padding: 150px 0;
+}
+
+.parrafo-primera-seccion{
+	color: white;
+	font-weight: bold;
+	text-align: justify;
+}
+
+.btn-verde{
+	background-color: #41521F;
+	color: white;
+	font-weight: bolder;
+}
+
+nav  li a{
+	color: white !important;
+}
+
+.navbar-brand.logo{
+	color: white;
+}
+
+
+/*segunda sección*/
+
+.second-section{
+	padding: 50px;
+}
+
+.koala{
+	width: 50%;
+
+}
+
+.titulo-segunda-seccion{
+	color: #41521F;
+	font-weight: bold;
+}
+
+.columnas a{
+	color: #41521F;
+
+}
+
+.parrafo-second{
+	text-align: justify;
+}
+
+ 
+/*tercera sección*/
+
+.third-section{
+	background-color: #A89F68;
+	padding: 60px;
+	
+}
+
+.titulo{
+	color: white;
+	font-size: 15px;
+}
+
+.titulo-seccion-tres{
+	color: #41521F;
+	font-size: 30px;
+	font-weight: 100;
+}
+
+.titulo-seccion-tres.parrafo-seccion-tres{
+	text-align: justify;
+}
+
+.parrafo-seccion-tres{
+	color: white;
+	font-weight: bold;
+	text-align: justify;
+}
+
+/*darle borde blanco a imagen*/
+.koalita{
+	border: 5px solid white;
+}
+
+/*cuarta sección*/
+
+.fourth-section{
+	background: url("../img/all.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 30%;
+	height: 30px;
+	color: white;
+}
+
+/*quinta sección*/
+
+.fifth-section{
+	padding: 60px;
+}
+
+.titulo-quinta-seccion{
+	color: #41521F;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.fa-heart{
+	color: #A89F68;
+	margin-bottom: 30px;
+}
+
+.fa-globe{
+	color: #A89F68;
+	margin-bottom: 30px;
+}
+
+.fa-paw{
+	color: #A89F68;
+	margin-bottom: 30px;
+}
+
+/*sexta sección*/
+
+.sixth-section{
+	padding: 60px;
+	background: #A89F68;
+}
+
+.titulo-sexta-seccion{
+	text-align: center;
+	color: #41521F;
+	font-weight: bold;
+	margin-bottom: 30px;
+	
+}
+
+.precio{
+	color: white;
+	font-size: 80px;
+	
+}
+
+
+/*séptima sección footer*/
+
+.seventh-section{
+	background: #41521F;
+	padding: 100px;
+}
+
+.titulo-footer{
+	color: #A89F68;
+}
+
+.parrafo-footer{
+	color: white;
+	text-align: justify;
+}
+
+.mail-contacto{
+	color: #A89F68;
+}
+
+.link-septima-seccion{
+	text-decoration: none;
+	color: #A89F68;
+	text-align: center;
+	margin-top: 55px;
+	list-style: none;
+	text-align: justify;
+}
+
+.link-septima-seccion:hover{
+	color: white;
+}
+
+.link-septima-seccion li a{
+	color: #A89F68;
+}
+
+
