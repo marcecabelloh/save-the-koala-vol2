@@ -121,8 +121,7 @@ nav  li a{
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	padding: 30%;
-	height: 30px;
+	padding: 300px;
 	color: white;
 }
 
@@ -169,10 +168,19 @@ nav  li a{
 	
 }
 
-.precio{
+#precio{
 	color: white;
-	font-size: 80px;
 	
+}
+
+#numero{
+	color: white;
+	font-size: 70px;
+}
+
+.well{
+	background: #41521F;
+	color: white;
 }
 
 
